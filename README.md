@@ -42,6 +42,7 @@ V38     = https://drive.google.com/open?id=16Dom7-ssWBumZMFs0wJfKcdg7ixKHUiz
 V39     = https://drive.google.com/open?id=1SFq7G8cIba4wrskJkjv4BVlY2ITHGSjk
 V40     = http://www.mediafire.com/file/qal0wcayiarunoe/new_tattoo_v40.rar/file
 V41     = http://www.mediafire.com/file/2hyuca2qba3nblg/new_tattoo_v41.rar/file
+V42     = http://www.mediafire.com/file/2o21ni4cndrrf84/new_tattoo_v42.rar/file
 
 TATTO TUNGGAL
 
