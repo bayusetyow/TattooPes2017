@@ -50,17 +50,18 @@ V46     = http://www.mediafire.com/file/gio81xv8p7i7a2c/new_tattoo_v46.rar/file
 
 TATTO TUNGGAL
 
-J. DURMAZ     http://www.mediafire.com/file/sugcg587i7af3lm/j._durmazgalatasaraytattoo.rar/file
-MARINHO       http://www.mediafire.com/file/jnqxcbn8vd9p88j/MarinhoSantosFc_Tattoo.rar/file
-MELENDO       http://www.mediafire.com/file/5bup3kxu8ux6vrn/MelendoEspanyolTattoo.rar/file
-OTAVIO        http://www.mediafire.com/file/vjrhvdar0nbwhl2/OtavioBordeuxTattoo.rar/file
-A. SANTAMARIA http://www.mediafire.com/file/9754ygc36inb5nq/a._santamaria_tattoo.rar/file
-CAIO LUCAS    http://www.mediafire.com/file/8i70eq2xvkdzfbw/CaioLucasBenficaTattoo.rar/file
-F. MUSLERA    http://www.mediafire.com/file/wzu80z6f9o2kior/FernandoMusleraTattoo.rar/file
-Q. PROMES     http://www.mediafire.com/file/uuglvbc49lvdi8r/Q_PromesTattoo.rar/file
-RENATO SANCES http://www.mediafire.com/file/yiv3dfeqpq2kbjh/RenatoSanchesTattoo.rar/file
-KARDSHOP      https://drive.google.com/open?id=1Ayxo204FZJM6o_MngXXCtfrfol3cOsVD
-G. TORE       https://drive.google.com/open?id=1PHtasrbhMeJ2b5wa949C4U9_SZH0UsnV
-R. BRANCO     https://www.mediafire.com/file/65zpoocq3ybg5ih/Raphael_Branco_Tattoo.rar/file
-F. VISEU      https://www.mediafire.com/file/6gdosqyb2dz4m7s/Filipe_Vizeu_Tattoo.rar/file
-M. LUONGO     http://www.mediafire.com/file/h51ss3485xn0ecl/m._luongotattoo.rar
+J. DURMAZ           http://www.mediafire.com/file/sugcg587i7af3lm/j._durmazgalatasaraytattoo.rar/file
+MARINHO             http://www.mediafire.com/file/jnqxcbn8vd9p88j/MarinhoSantosFc_Tattoo.rar/file
+MELENDO             http://www.mediafire.com/file/5bup3kxu8ux6vrn/MelendoEspanyolTattoo.rar/file
+OTAVIO              http://www.mediafire.com/file/vjrhvdar0nbwhl2/OtavioBordeuxTattoo.rar/file
+A. SANTAMARIA       http://www.mediafire.com/file/9754ygc36inb5nq/a._santamaria_tattoo.rar/file
+CAIO LUCAS          http://www.mediafire.com/file/8i70eq2xvkdzfbw/CaioLucasBenficaTattoo.rar/file
+F. MUSLERA          http://www.mediafire.com/file/wzu80z6f9o2kior/FernandoMusleraTattoo.rar/file
+Q. PROMES           http://www.mediafire.com/file/uuglvbc49lvdi8r/Q_PromesTattoo.rar/file
+RENATO SANCES       http://www.mediafire.com/file/yiv3dfeqpq2kbjh/RenatoSanchesTattoo.rar/file
+KARDSHOP            https://drive.google.com/open?id=1Ayxo204FZJM6o_MngXXCtfrfol3cOsVD
+G. TORE             https://drive.google.com/open?id=1PHtasrbhMeJ2b5wa949C4U9_SZH0UsnV
+R. BRANCO           https://www.mediafire.com/file/65zpoocq3ybg5ih/Raphael_Branco_Tattoo.rar/file
+F. VISEU            https://www.mediafire.com/file/6gdosqyb2dz4m7s/Filipe_Vizeu_Tattoo.rar/file
+M. LUONGO           http://www.mediafire.com/file/h51ss3485xn0ecl/m._luongotattoo.rar
+garry rodrigues     http://www.mediafire.com/file/vqfz89592d7ul37/garry_rodrigues_tattoo.rar/file
