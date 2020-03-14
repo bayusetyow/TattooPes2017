@@ -48,6 +48,8 @@ V44     = http://www.mediafire.com/file/108rexfrcgc74d2/new_tattoo_v44.rar/file
 V45     = http://www.mediafire.com/file/shqgabm6qgf6iya/new_tattoo_v45.rar/file
 V46     = http://www.mediafire.com/file/gio81xv8p7i7a2c/new_tattoo_v46.rar/file
 V47     = http://www.mediafire.com/file/9ipecare93e2xy9/new_tattoo_v47.rar/file
+V48     = http://www.mediafire.com/file/1hnb94rj7ksata7/new_tattoo_v48.rar/file
+V49     = http://www.mediafire.com/file/8auttqwqch6gh6k/new_tattoo_v49.rar/file
 
 TATTO TUNGGAL
 
