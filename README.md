@@ -67,4 +67,5 @@ G. TORE             https://drive.google.com/open?id=1PHtasrbhMeJ2b5wa949C4U9_SZ
 R. BRANCO           https://www.mediafire.com/file/65zpoocq3ybg5ih/Raphael_Branco_Tattoo.rar/file
 F. VISEU            https://www.mediafire.com/file/6gdosqyb2dz4m7s/Filipe_Vizeu_Tattoo.rar/file
 M. LUONGO           http://www.mediafire.com/file/h51ss3485xn0ecl/m._luongotattoo.rar
-garry rodrigues     http://www.mediafire.com/file/vqfz89592d7ul37/garry_rodrigues_tattoo.rar/file
+GARRY RODRIGUES     http://www.mediafire.com/file/vqfz89592d7ul37/garry_rodrigues_tattoo.rar/file
+N. ZANIOLO          http://www.mediafire.com/file/rtffwhqvepv8kqh/zaniolo_update_tattoo.rar/file
