@@ -54,6 +54,7 @@ V50     = http://www.mediafire.com/file/z5dv59231dikxrx/new_tattoo_v50.rar/file
 V51     = http://www.mediafire.com/file/r5b88zlgfoc4ie8/new_tattoo_v51.rar/file
 V52     = https://www.mediafire.com/file/zui93xiv4aauq0i/new_tattoo_v52.rar/file
 V53     = https://www.mediafire.com/file/2ll0sq83ksizyl2/new_tattoo_v53.rar/file
+V54     = https://www.mediafire.com/file/4zadwsfh978fyyj/new_tattoo_v54.rar/file
 
 TATTO TUNGGAL
 
